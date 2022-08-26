@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<!DOCTYPE stafflist SYSTEM "employee.dtd">
+<stafflist>
+   
+        <staff bno="b001">
+            <sno>6</sno>
+            <name>
+                <fnm>Oam</fnm>
+                <lnm>Shah</lnm>
+            </name>
+            <position> manager</position>
+            <sal>30.00</sal>
+        </staff>
+        
+        <staff bno="b001">
+            <sno>5</sno>
+            <name>
+                <fnm> Aaryan </fnm>
+                <lnm> Bobde</lnm>
+            </name>
+            <position> manager</position>
+            <sal>50.00</sal>
+        </staff>
+        <staff bno="b001">
+            <sno>4</sno>
+            <name>
+                <fnm> Atharva </fnm>
+                <lnm> S</lnm>
+            </name>
+            <position> mamanager</position>
+            <sal>20.00</sal>
+        </staff>
+        
+        <staff bno="b001">
+            <sno>3</sno>
+            <name>
+                <fnm> Ayush</fnm>
+                <lnm> Sharma</lnm>
+            </name>
+            <position> worker</position>
+            <sal>30.00</sal>
+        </staff>
+        
+        <staff bno="b002">
+            <sno>2</sno>
+            <name>
+                <fnm> ddd1</fnm>
+                <lnm> rrr1</lnm>
+            </name>
+            <position> manager1</position>
+            <sal>18.00</sal>
+        </staff>
+        <staff bno="b002">
+            <sno>1</sno>
+            <name>
+                <fnm> vaaa1</fnm>
+                <lnm> vbbb1</lnm>
+            </name>
+            <position> amanager1</position>
+            <sal>120.00</sal>
+        </staff>
+    <staff bno="b002">
+        <sno>3</sno>
+        <name>
+            <fnm> xyz</fnm>
+            <lnm> abc</lnm>
+        </name>
+        <position> amanager1</position>
+        <sal>120.00</sal>
+    </staff>
+    
+    <staff bno="b003">
+        <sno>1</sno>
+        <name>
+            <fnm> xyz</fnm>
+            <lnm> abc</lnm>
+        </name>
+        <position> amanager1</position>
+        <sal>120.00</sal>
+    </staff>
+    
+    <staff bno="b003">
+        <sno>11</sno>
+        <name>
+            <fnm> lmn</fnm>
+            <lnm> abc</lnm>
+        </name>
+        <position> amanager1</position>
+        <sal>120.00</sal>
+    </staff>
+    
+    <staff bno="b003">
+        <sno>12</sno>
+        <name>
+            <fnm> pqr</fnm>
+            <lnm> abc</lnm>
+        </name>
+        <position> amanager1</position>
+        <sal>120.00</sal>
+    </staff>
+    
+    
+    
+    
+        
+        <branch>
+            <bno>b001</bno>
+            <city> pune</city>
+            <Bnm> Swargate</Bnm>
+            
+        </branch>
+    
+    <branch>
+        <bno>b002</bno>
+        <city> Mumbai</city>
+        <Bnm> Nariman Point</Bnm>
+        
+    </branch>
+    
+    <branch>
+        <bno>b003</bno>
+        <city> pune</city>
+        <Bnm> Kothrud</Bnm>
+        
+    </branch>
+    
+    
+</stafflist>
+
